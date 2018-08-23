@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  PaginationTableView
-//
-//  Created by Yash Patel on 02/12/17.
-//  Copyright © 2017 Yash Patel. All rights reserved.
-//
+
 
 import UIKit
 
